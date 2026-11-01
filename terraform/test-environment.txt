@@ -1,0 +1,5 @@
+Project: JobConnect Selenium Testing
+Target URL: https://job-connect-fsd-project-jha2esm1x-kamalkumar17b-3631s-projects.vercel.app/
+Framework: Selenium
+Test Runner: Pytest
+Test Cases: 18

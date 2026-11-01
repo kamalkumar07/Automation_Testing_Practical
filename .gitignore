@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Selenium / local files
+.DS_Store
+
+# Terraform generated files
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.*
+terraform/crash.log
+
+# Keep Terraform lock file for reproducibility
+# .terraform.lock.hcl should be committed
+
+# Reports (keep report if you want it in GitHub)
